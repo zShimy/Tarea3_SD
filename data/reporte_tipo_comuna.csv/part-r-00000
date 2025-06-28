@@ -1,0 +1,228 @@
+POLICE,Santiago,73
+HAZARD,desconocido,55
+JAM,Maipú,53
+JAM,desconocido,44
+HAZARD,Santiago,43
+ROAD_CLOSED,Conchalí,39
+JAM,Pudahuel,38
+CHIT_CHAT,Santiago,38
+POLICE,Estación Central,37
+JAM,Buin,32
+JAM,Puente Alto,31
+JAM,Las Condes,29
+POLICE,Las Condes,28
+POLICE,Curacaví,27
+JAM,Melipilla,26
+JAM,Curacaví,26
+JAM,Santiago,25
+HAZARD,San Bernardo,25
+POLICE,desconocido,25
+POLICE,Independencia,24
+HAZARD,Estación Central,24
+JAM,La Florida,23
+HAZARD,Puente Alto,21
+ROAD_CLOSED,Maipú,21
+HAZARD,Tiltil,21
+ROAD_CLOSED,Pudahuel,21
+POLICE,Colina,20
+HAZARD,Providencia,20
+HAZARD,Maipú,20
+POLICE,Maipú,20
+JAM,Providencia,20
+POLICE,Puente Alto,19
+JAM,Ñuñoa,18
+POLICE,San Bernardo,18
+HAZARD,Ñuñoa,16
+HAZARD,Quilicura,16
+HAZARD,Huechuraba,15
+HAZARD,Colina,15
+POLICE,Providencia,15
+HAZARD,La Florida,15
+POLICE,Buin,14
+HAZARD,Paine,14
+POLICE,Quilicura,13
+POLICE,Paine,13
+CHIT_CHAT,Estación Central,13
+HAZARD,Melipilla,13
+POLICE,Melipilla,13
+JAM,San Bernardo,13
+POLICE,Pudahuel,12
+JAM,La Cisterna,12
+JAM,Lampa,11
+CHIT_CHAT,Las Condes,11
+HAZARD,Vitacura,11
+HAZARD,Pudahuel,11
+HAZARD,Peñalolén,11
+JAM,Vitacura,10
+POLICE,Calera de Tango,10
+POLICE,Quinta Normal,10
+ROAD_CLOSED,Cerro Navia,10
+POLICE,La Cisterna,10
+HAZARD,Las Condes,10
+ACCIDENT,Maipú,10
+ROAD_CLOSED,Providencia,9
+ROAD_CLOSED,Ñuñoa,9
+HAZARD,Lampa,9
+POLICE,La Florida,9
+JAM,Pirque,9
+POLICE,Renca,8
+JAM,Estación Central,8
+POLICE,La Reina,8
+HAZARD,Cerrillos,8
+HAZARD,Curacaví,8
+POLICE,Ñuñoa,8
+ROAD_CLOSED,Peñalolén,8
+HAZARD,Buin,8
+POLICE,San Miguel,8
+HAZARD,Peñaflor,7
+JAM,La Reina,7
+HAZARD,Lo Prado,7
+HAZARD,La Pintana,7
+ACCIDENT,Ñuñoa,7
+CHIT_CHAT,Maipú,7
+HAZARD,Padre Hurtado,7
+POLICE,El Bosque,7
+POLICE,Talagante,7
+HAZARD,María Pinto,6
+ACCIDENT,Vitacura,6
+POLICE,Pedro Aguirre Cerda,6
+POLICE,Peñalolén,6
+POLICE,Peñaflor,6
+POLICE,Conchalí,6
+POLICE,Vitacura,6
+POLICE,Recoleta,6
+POLICE,El Monte,6
+POLICE,Pirque,6
+HAZARD,La Cisterna,6
+JAM,Peñaflor,6
+POLICE,Padre Hurtado,5
+JAM,San Miguel,5
+ACCIDENT,Buin,5
+ROAD_CLOSED,Quilicura,5
+ROAD_CLOSED,Vitacura,5
+JAM,Peñalolén,5
+HAZARD,Lo Barnechea,5
+ROAD_CLOSED,Santiago,5
+HAZARD,Macul,5
+HAZARD,Pirque,5
+POLICE,Tiltil,5
+JAM,Renca,5
+ROAD_CLOSED,Renca,5
+HAZARD,San José de Maipo,5
+HAZARD,Renca,5
+JAM,Quilicura,5
+JAM,San Joaquín,5
+POLICE,San Joaquín,5
+POLICE,San Ramón,4
+HAZARD,Independencia,4
+HAZARD,Cerro Navia,4
+ACCIDENT,La Reina,4
+ACCIDENT,Puente Alto,4
+CHIT_CHAT,Providencia,4
+ROAD_CLOSED,El Bosque,4
+CHIT_CHAT,Ñuñoa,4
+POLICE,Lo Espejo,4
+JAM,La Granja,4
+ACCIDENT,Lampa,4
+JAM,Recoleta,4
+JAM,El Monte,4
+JAM,Paine,4
+JAM,Padre Hurtado,4
+POLICE,La Granja,4
+POLICE,Lampa,4
+POLICE,Lo Prado,4
+HAZARD,Conchalí,4
+POLICE,Cerro Navia,4
+CHIT_CHAT,San Joaquín,3
+CHIT_CHAT,La Cisterna,3
+POLICE,Macul,3
+JAM,El Bosque,3
+HAZARD,Quinta Normal,3
+JAM,Cerrillos,3
+CHIT_CHAT,Recoleta,3
+CHIT_CHAT,Curacaví,3
+POLICE,La Pintana,3
+ACCIDENT,Pudahuel,3
+ACCIDENT,Santiago,3
+POLICE,Cerrillos,3
+HAZARD,Talagante,3
+HAZARD,Recoleta,3
+POLICE,San José de Maipo,3
+HAZARD,La Reina,3
+HAZARD,El Monte,3
+JAM,Macul,3
+CHIT_CHAT,San Miguel,3
+CHIT_CHAT,La Pintana,2
+CHIT_CHAT,Lo Barnechea,2
+HAZARD,Lo Espejo,2
+HAZARD,La Granja,2
+HAZARD,El Bosque,2
+HAZARD,San Joaquín,2
+POLICE,María Pinto,2
+JAM,Tiltil,2
+CHIT_CHAT,Quilicura,2
+ROAD_CLOSED,Paine,2
+JAM,San Ramón,2
+POLICE,Lo Barnechea,2
+JAM,Calera de Tango,2
+CHIT_CHAT,Macul,2
+ROAD_CLOSED,Padre Hurtado,2
+ROAD_CLOSED,desconocido,2
+CHIT_CHAT,Lampa,2
+ACCIDENT,San José de Maipo,2
+ACCIDENT,Padre Hurtado,2
+JAM,Conchalí,2
+JAM,Talagante,2
+HAZARD,Pedro Aguirre Cerda,2
+JAM,La Pintana,2
+JAM,Isla de Maipo,2
+POLICE,Isla de Maipo,2
+CHIT_CHAT,Lo Prado,2
+ACCIDENT,Colina,2
+HAZARD,San Miguel,2
+ACCIDENT,Providencia,2
+POLICE,Alhué,2
+JAM,Pedro Aguirre Cerda,2
+JAM,Colina,2
+JAM,San José de Maipo,2
+ROAD_CLOSED,Buin,2
+CHIT_CHAT,La Granja,1
+POLICE,Huechuraba,1
+CHIT_CHAT,Talagante,1
+CHIT_CHAT,Huechuraba,1
+ROAD_CLOSED,Isla de Maipo,1
+CHIT_CHAT,La Reina,1
+CHIT_CHAT,Cerro Navia,1
+CHIT_CHAT,Puente Alto,1
+HAZARD,Calera de Tango,1
+HAZARD,Isla de Maipo,1
+CHIT_CHAT,San Bernardo,1
+CHIT_CHAT,Independencia,1
+CHIT_CHAT,Colina,1
+CHIT_CHAT,Quinta Normal,1
+CHIT_CHAT,Pedro Aguirre Cerda,1
+ACCIDENT,Cerrillos,1
+ROAD_CLOSED,Lampa,1
+ACCIDENT,El Bosque,1
+ACCIDENT,Peñaflor,1
+ACCIDENT,Quilicura,1
+ACCIDENT,Huechuraba,1
+ACCIDENT,La Pintana,1
+ACCIDENT,Las Condes,1
+ACCIDENT,La Cisterna,1
+tipo,comuna,1
+JAM,Quinta Normal,1
+JAM,Independencia,1
+ROAD_CLOSED,Peñaflor,1
+ROAD_CLOSED,Huechuraba,1
+ROAD_CLOSED,La Florida,1
+JAM,Cerro Navia,1
+ROAD_CLOSED,La Pintana,1
+ROAD_CLOSED,San Miguel,1
+JAM,Huechuraba,1
+ACCIDENT,desconocido,1
+JAM,Lo Espejo,1
+ROAD_CLOSED,La Cisterna,1
+ACCIDENT,San Bernardo,1
+CHIT_CHAT,Vitacura,1
+CHIT_CHAT,Pudahuel,1

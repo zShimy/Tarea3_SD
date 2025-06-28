@@ -1,0 +1,129 @@
+version: "3.8"
+
+services:
+  mongo:
+    image: mongo:5.0
+    restart: always
+    container_name: compose-demo-mongo
+    volumes:
+      - mongo_data:/data/db
+    ports:
+      - "27017:27017"
+    healthcheck:
+      test: ["CMD", "mongo", "--quiet", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+
+  cache-service:
+    build: ./cache-service
+    restart: on-failure
+    depends_on:
+      - mongo
+      - redis
+    environment:
+      - MONGO_URI=mongodb://mongo:27017
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - TTL=3600
+      - ARRIVAL_LAMBDA=5
+
+  redis:
+    image: redis:latest
+    restart: always
+    container_name: compose-demo-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+  redisinsight:
+    image: redislabs/redisinsight:latest
+    restart: always
+    container_name: compose-demo-redisinsight
+    depends_on:
+      - redis
+    ports:
+      - "5540:5540"
+
+  traffic-generator:
+    build: ./simulate-traffic
+    restart: on-failure
+    depends_on:
+      - mongo
+      - redis
+    environment:
+      - MONGO_URI=mongodb://mongo:27017
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - ARRIVAL_MODE=poisson
+      - ARRIVAL_LAMBDA=5
+      - DETERMINISTIC_INTERVAL=1
+      - SHOW_STATS_EVERY=50
+    command: python simulate.py
+
+  mongo-express:
+    image: mongo-express:latest
+    restart: always
+    container_name: compose-demo-mongo-express
+    depends_on:
+      - mongo
+    environment:
+      ME_CONFIG_MONGODB_URL: "mongodb://mongo:27017/eventos_waze"
+      ME_CONFIG_BASICAUTH: "false"
+      ME_CONFIG_BASICAUTH_ENABLED: "false"
+    ports:
+      - "8081:8081"
+
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase
+    restart: unless-stopped
+    depends_on:
+      - mongo
+    environment:
+      MB_DB_FILE: /metabase-data/metabase.db
+    volumes:
+      - metabase-data:/metabase-data
+    ports:
+      - "3000:3000"
+
+  mongo-exporter:
+    build: ./mongo-exporter
+    container_name: mongo-exporter
+    depends_on:
+      - mongo
+    volumes:
+      - ./data:/data
+
+  pig-filter:
+    build: ./pig-filter
+    container_name: pig-filter
+    depends_on:
+    - mongo-exporter
+    volumes:
+    - ./data:/data
+
+  pig-process:
+    build: ./pig-process
+    container_name: pig-process
+    depends_on:
+      - pig-filter
+    volumes:
+      - ./data:/data
+
+  class-comuna:
+    build: ./class-comuna
+    container_name: class-comuna
+    depends_on:
+      - pig-filter
+    volumes:
+      - ./data:/data
+
+volumes:
+  mongo_data:
+  redis_data:
+  metabase-data:
+
+

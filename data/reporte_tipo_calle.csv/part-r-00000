@@ -1,0 +1,863 @@
+JAM,Ruta 68,53
+HAZARD,Ruta 5 Sur,43
+HAZARD,Ruta 78,29
+ROAD_CLOSED,Av. Independencia,27
+JAM,Av. Pajaritos,27
+HAZARD,Av. Libertador Bernardo O'Higgins,26
+POLICE,sin información,23
+JAM,Av. Américo Vespucio,23
+JAM,Ruta 79,23
+JAM,Av. Vicuña Mackenna,23
+HAZARD,Ruta 5 Norte,21
+POLICE,Ruta 68,19
+JAM,Ruta 5 Sur,19
+JAM,Ruta G-60,18
+ROAD_CLOSED,Longitudinal,17
+JAM,Ruta 78,17
+HAZARD,Autopista Central,15
+JAM,Autopista Central,14
+POLICE,Av. Libertador Bernardo O'Higgins,14
+JAM,Av. Camilo Henríquez,14
+HAZARD,Ruta 68,13
+HAZARD,Av. Américo Vespucio,12
+POLICE,San Francisco,12
+HAZARD,sin información,12
+JAM,sin información,12
+HAZARD,Ruta 79,12
+CHIT_CHAT,Av. Libertador Bernardo O'Higgins,11
+POLICE,Av. Calera de Tango,10
+HAZARD,Autopista Costanera Norte,10
+ROAD_CLOSED,Vicuña Rozas,10
+POLICE,Toro Mazotte,10
+HAZARD,Autopista Vespucio Sur,9
+POLICE,Ruta 78,8
+ROAD_CLOSED,Av. Los Presidentes,8
+JAM,Camino Buin - Alto Jahuel,8
+JAM,Av. Ossa,8
+POLICE,Av. Américo Vespucio,7
+POLICE,Cerro Colorado,7
+ROAD_CLOSED,Depósito Express Pudahuel,7
+POLICE,Ruta 5 Norte,7
+HAZARD,Autopista Vespucio Norte,7
+POLICE,Av. Cristóbal Colón,7
+HAZARD,Ruta G-74-F,7
+POLICE,Ruta 79,7
+JAM,Ruta G-16,7
+JAM,Av. Américo Vespucio Norte,6
+POLICE,Av. Carlos Valdovinos,6
+POLICE,Merced,6
+JAM,Ruta 66,6
+JAM,Av. Departamental,6
+CHIT_CHAT,Toro Mazotte,6
+ROAD_CLOSED,Autopista Central - Eje Gral. Velásquez,6
+HAZARD,Ruta F-100-G,6
+JAM,Ruta 5 Norte,6
+JAM,Av. Francisco Bilbao,5
+POLICE,Av. Santa Rosa,5
+HAZARD,Caletera Acceso Sur,5
+CHIT_CHAT,Av. Pajaritos,5
+POLICE,Av. Alcalde Hernán Prieto,5
+CHIT_CHAT,Av. Manuel Antonio Matta,5
+JAM,Av. Manuel Rodríguez,5
+POLICE,Gran Avenida José Miguel Carrera,5
+JAM,Av. Ramón Subercaseaux,5
+HAZARD,Av. Pedro Fontova Norte,5
+JAM,Av. Manuel Antonio Matta,5
+ACCIDENT,Ruta 5 Norte,5
+ROAD_CLOSED,Los Conquistadores / Túnel San Cristóbal,5
+POLICE,Camino Chicureo,5
+ROAD_CLOSED,Puerto Madero,5
+ACCIDENT,Av. Ossa,5
+POLICE,Av. San Ignacio,5
+ACCIDENT,Ruta 79,5
+HAZARD,Autopista Central - Eje Gral. Velásquez,5
+JAM,Av. Gabriela Poniente,4
+HAZARD,Av. Providencia,4
+JAM,Av. Cristóbal Colón,4
+ROAD_CLOSED,Salida Los Conquistadores,4
+ROAD_CLOSED,Av. San Pablo,4
+POLICE,Conde del Maule,4
+JAM,Av. Eliodoro Yáñez,4
+POLICE,Ruta 5 Sur,4
+POLICE,Av. Fermín Vivaceta,4
+ROAD_CLOSED,Ruta 79,4
+ACCIDENT,Autopista Kennedy,4
+JAM,Gran Avenida José Miguel Carrera,4
+HAZARD,Av. 5 de Abril,4
+POLICE,Mapocho,4
+POLICE,Av. Lo Blanco,4
+POLICE,Ruta 66,4
+POLICE,Av. San Pablo,4
+POLICE,Av. Ossa,4
+ROAD_CLOSED,Ernesto Riquelme,4
+HAZARD,Av. Pajaritos,4
+HAZARD,Ruta 76 / Camino San Alberto Hurtado,4
+JAM,Salida a Américo Vespucio Sur > Cerrillos,4
+HAZARD,Av. Pdte. Jorge Alessandri Rodríguez,4
+HAZARD,Av. Tobalaba,4
+JAM,Av. La Florida,4
+JAM,Av. Virginia Subercaseaux,4
+CHIT_CHAT,Av. Ecuador,4
+CHIT_CHAT,Cerro Colorado,4
+HAZARD,Av. Alcalde Hernán Prieto,4
+HAZARD,Av. 10 de Julio Huamachuco,4
+HAZARD,Ruta 57 CH / Autopista Los Libertadores,4
+HAZARD,Camino al Volcán,4
+POLICE,Av. 5 de Abril,3
+HAZARD,Autopista Troncal Sur,3
+POLICE,Av. Ecuador,3
+POLICE,Autopista Central,3
+HAZARD,Av. Los Libertadores,3
+POLICE,Ruta G-730,3
+POLICE,José Victorino Lastarria,3
+HAZARD,Dr. Guillermo Mann,3
+POLICE,Av. Santa María,3
+HAZARD,Av. Independencia,3
+CHIT_CHAT,Av. Cristóbal Colón,3
+HAZARD,Av. Bicentenario,3
+POLICE,Unión Latinoamericana,3
+POLICE,Kennedy lateral,3
+POLICE,El Conquistador,3
+ROAD_CLOSED,Av. Antonio Varas,3
+POLICE,Esperanza,3
+HAZARD,Av. Santa Rosa,3
+POLICE,Av. Ambrosio O'Higgins,3
+ROAD_CLOSED,sin información,3
+POLICE,Av. Padre Hurtado Sur,3
+CHIT_CHAT,Ruta 68,3
+POLICE,Concón,3
+CHIT_CHAT,Gran Avenida José Miguel Carrera,3
+POLICE,General John O'Brien,3
+POLICE,Camino Padre Hurtado,3
+POLICE,Av. Los Libertadores,3
+JAM,Av. Libertador Bernardo O'Higgins,3
+HAZARD,Ruta G-132 / Camino A Polpaico,3
+CHIT_CHAT,Av. Antonio Varas,3
+JAM,Av. Presidente Kennedy,3
+POLICE,Jorge Guerra,3
+JAM,Av. Alonso de Córdova,3
+JAM,Autopista Vespucio Sur,3
+ROAD_CLOSED,Av. Hugo Bravo,3
+POLICE,Av. Santa Victoria,3
+JAM,Av. Salvador Allende,3
+JAM,Av. Domingo Tocornal,3
+JAM,General Bustamante,3
+POLICE,Ruta G-30 / Camino a Lonquén,3
+HAZARD,Av. Padre Hurtado Norte,3
+CHIT_CHAT,Av. Santa Rosa,3
+JAM,Autopista Kennedy,3
+POLICE,Camino al Volcán,3
+POLICE,Padre Jaime Larraín Hurtado,3
+JAM,Nueva Tobalaba,3
+POLICE,Exposición,3
+HAZARD,Av. Manuel Rodríguez,3
+POLICE,Caletera Sur Ruta 68,2
+HAZARD,Huelén,2
+ROAD_CLOSED,El Pino,2
+HAZARD,Madrid,2
+HAZARD,Ruta G-100-F,2
+HAZARD,Condominio Santa María de Chicureo 2,2
+HAZARD,Av. La Dehesa,2
+POLICE,Av. Vicuña Mackenna,2
+POLICE,Av. Salvador Allende,2
+POLICE,Santa Mercedes,2
+POLICE,Av. La Montaña,2
+JAM,Autopista Central - Eje Gral. Velásquez,2
+HAZARD,Av. Presidente Eduardo Frei Montalva,2
+JAM,Alonso de Córdova / Kennedy > Oriente,2
+HAZARD,Gran Avenida José Miguel Carrera,2
+JAM,Av. Pdte. Jorge Alessandri Rodríguez,2
+HAZARD,Av. San Pablo,2
+POLICE,Artesanos,2
+HAZARD,Ruta G-17 / General San Martín,2
+ACCIDENT,Av. Camilo Henríquez,2
+POLICE,Av. Francisco Bilbao,2
+HAZARD,Av. La Florida,2
+CHIT_CHAT,San Francisco,2
+HAZARD,Av. Pedro de Valdivia,2
+POLICE,Caletera Norte Ruta 68,2
+ACCIDENT,Av. Américo Vespucio,2
+HAZARD,Av. San Ignacio,2
+HAZARD,Ruta F-50 / Camino Lo Orozco,2
+POLICE,Ruta G-692-H,2
+POLICE,Av. 18 de Septiembre,2
+JAM,Viel,2
+ROAD_CLOSED,Bartolomé Mandujano,2
+HAZARD,Santa Elena Sur,2
+POLICE,Caletera Acceso Sur,2
+HAZARD,Ruta G-68 / Cuesta Barriga,2
+HAZARD,Ruta F-62 / Camino Troncal,2
+ROAD_CLOSED,Av. Fermín Vivaceta,2
+JAM,Av. 10 de Julio Huamachuco,2
+HAZARD,Av. Irarrázaval,2
+HAZARD,Av. Los Copihues,2
+JAM,Av. Senador Jaime Guzmán,2
+JAM,Av. Padre Alberto Hurtado,2
+POLICE,San Diego,2
+POLICE,Ruta 76 / Camino San Alberto Hurtado,2
+HAZARD,Av. Concha y Toro,2
+ROAD_CLOSED,Estacionamiento subterráneo,2
+CHIT_CHAT,Av. Santa María,2
+HAZARD,Av. Alfredo Silva Carvallo,2
+HAZARD,Av. Departamental,2
+JAM,Alcázar,2
+ROAD_CLOSED,Filibusteros,2
+POLICE,Av. Italia,2
+POLICE,Av. Padre Hurtado,2
+JAM,Vicente Valdés,2
+JAM,Av. San Carlos,2
+JAM,Av. San Ignacio,2
+POLICE,Av. Suecia,2
+CHIT_CHAT,Santa Lucía,2
+POLICE,Ruta G-74-F,2
+HAZARD,San Luis de Macul,2
+JAM,Av. Dorsal,2
+JAM,Av. Grecia,2
+POLICE,Eyzaguirre,2
+CHIT_CHAT,Av. Lo Blanco,2
+POLICE,Hipódromo Chile,2
+ACCIDENT,Autopista Vespucio Norte,2
+JAM,Av. El Parrón,2
+POLICE,Ruiz Tagle,2
+JAM,Av. El Peñón,2
+HAZARD,San Alberto Hurtado,2
+ACCIDENT,Camino al Volcán,2
+ROAD_CLOSED,Romeo Salinas,2
+JAM,Ruta F-100-G,2
+JAM,San Alberto Hurtado,2
+ROAD_CLOSED,Verdejo Norte,2
+HAZARD,Av. Gladys Marín Millie,2
+POLICE,Av. Larraín,2
+JAM,Av. Calera de Tango,2
+JAM,Av. Balmaceda,2
+POLICE,Los Nogales,2
+POLICE,Av. La Compañía,2
+POLICE,Av. Holanda,2
+JAM,Camino al Volcán,2
+HAZARD,Av. República de Chile,2
+JAM,Av. Padre Hurtado,2
+JAM,Av. Lo Ovalle,2
+JAM,Cerro Colorado,2
+POLICE,Av. Costanera Andrés Bello,2
+JAM,Av. Concha y Toro,2
+HAZARD,Av. Grecia,2
+HAZARD,Ruta G-60,2
+HAZARD,Av. Pocuro,2
+HAZARD,Ruta G-27,2
+HAZARD,Ruta G-16,2
+POLICE,Camino a Rapel,2
+ROAD_CLOSED,Av. Santa Leonor,2
+HAZARD,Av. México,2
+HAZARD,Galvarino,2
+POLICE,Toesca,2
+POLICE,Av. Camilo Henríquez,2
+HAZARD,Av. Neptuno,2
+CHIT_CHAT,Mapocho,2
+POLICE,Autopista Central - Eje Gral. Velásquez,2
+ROAD_CLOSED,Merced,2
+POLICE,Av. Independencia,2
+HAZARD,Caupolicán,2
+CHIT_CHAT,Av. 5 de Abril,2
+POLICE,Diagonal Santa Elena,2
+JAM,Santo Domingo,2
+POLICE,Camino El Barrancón,2
+ROAD_CLOSED,Vicuña Mackenna,2
+HAZARD,Av. Rancagua,2
+POLICE,Av. Pedro de Valdivia,2
+HAZARD,Froilán Roa,2
+ROAD_CLOSED,Salida a Vespucio Norte Express > La Florida / 5 Sur / Maipú,1
+ROAD_CLOSED,Acceso a Autopista Américo Vespucio > Ruta 68 / Las Condes,1
+ROAD_CLOSED,Acceso Autopista Américo Vespucio > Ruta 68 / Las Condes,1
+ROAD_CLOSED,Salida 21 > San Pablo / Claudio Arrau,1
+ROAD_CLOSED,Salida Depósito Express Pudahuel,1
+ROAD_CLOSED,Romeo Salinas (Pista Izquierda),1
+ROAD_CLOSED,Camino al Bosque de Santiago,1
+ROAD_CLOSED,Av. Vitacura > Oriente,1
+ROAD_CLOSED,Salvador Sanfuentes,1
+ROAD_CLOSED,Salida > San Javier,1
+ROAD_CLOSED,General Bustamante,1
+ROAD_CLOSED,Salida > El Rosal,1
+ROAD_CLOSED,Exequiel Figueroa,1
+ROAD_CLOSED,Valle del Chopa,1
+ROAD_CLOSED,Ramón Carnicer,1
+ROAD_CLOSED,Pasaje Dionisio,1
+ROAD_CLOSED,Paraíso Norte,1
+ROAD_CLOSED,Eduardo Matte,1
+ROAD_CLOSED,Av. La Serena,1
+ROAD_CLOSED,Sierra Bella,1
+ROAD_CLOSED,5ª Avenida,1
+ROAD_CLOSED,Quilicura,1
+ROAD_CLOSED,Av. Ossa,1
+ROAD_CLOSED,Negrete,1
+ROAD_CLOSED,Raulí,1
+ROAD_CLOSED,Pudeto,1
+ROAD_CLOSED,Olimpo,1
+CHIT_CHAT,Av. Teniente Luis Cruz Martínez,1
+CHIT_CHAT,Av. María Rozas Velásquez,1
+CHIT_CHAT,Av. General Óscar Bonilla,1
+CHIT_CHAT,José Victorino Lastarria,1
+CHIT_CHAT,Av. José Alcalde Délano,1
+CHIT_CHAT,Av. Américo Vespucio Sur,1
+CHIT_CHAT,José Miguel de la Barra,1
+CHIT_CHAT,Camino Nos a Los Morros,1
+CHIT_CHAT,Av. Pedro Fontova Norte,1
+CHIT_CHAT,Unión Latinoamericana,1
+CHIT_CHAT,Ismael Valdés Vergara,1
+CHIT_CHAT,Av. Pedro de Valdivia,1
+CHIT_CHAT,Av. Manuel Rodríguez,1
+CHIT_CHAT,Av. Gabriela Poniente,1
+CHIT_CHAT,Av. Escuela Agrícola,1
+CHIT_CHAT,Av. Carlos Valdovinos,1
+CHIT_CHAT,Av. Américo Vespucio,1
+CHIT_CHAT,Puente del Arzobispo,1
+CHIT_CHAT,Av. Vicuña Mackenna,1
+CHIT_CHAT,Av. Fermín Vivaceta,1
+CHIT_CHAT,General Bustamante,1
+CHIT_CHAT,Av. Las Industrias,1
+CHIT_CHAT,Acceso Santa Elena,1
+CHIT_CHAT,Martín de Zamora,1
+CHIT_CHAT,Diagonal Paraguay,1
+CHIT_CHAT,Av. Padre Hurtado,1
+CHIT_CHAT,Av. Departamental,1
+CHIT_CHAT,Autopista Kennedy,1
+CHIT_CHAT,Autopista Central,1
+CHIT_CHAT,Los Industriales,1
+CHIT_CHAT,Kennedy lateral,1
+CHIT_CHAT,Conde del Maule,1
+CHIT_CHAT,Salomón Sumar,1
+CHIT_CHAT,Nueva Tobalaba,1
+CHIT_CHAT,Av. Las Torres,1
+CHIT_CHAT,Santo Domingo,1
+CHIT_CHAT,Padre Hurtado,1
+CHIT_CHAT,Cacique Colin,1
+CHIT_CHAT,Av. Lo Ovalle,1
+CHIT_CHAT,Av. La Dehesa,1
+CHIT_CHAT,Av. Apoquindo,1
+CHIT_CHAT,Ruta 5 Norte,1
+CHIT_CHAT,Paseo Bulnes,1
+CHIT_CHAT,Exposición,1
+CHIT_CHAT,San Diego,1
+CHIT_CHAT,Esperanza,1
+CHIT_CHAT,Dardignac,1
+CHIT_CHAT,Artesanos,1
+CHIT_CHAT,Monjitas,1
+CHIT_CHAT,Libertad,1
+CHIT_CHAT,Ruta 78,1
+CHIT_CHAT,Concón,1
+CHIT_CHAT,Merced,1
+CHIT_CHAT,Marín,1
+CHIT_CHAT,Lira,1
+ACCIDENT,Salida 24 > Santa Elena / Centro Comercial,1
+ACCIDENT,Condominio Santa María de Chicureo 2,1
+ACCIDENT,Av. Pdte. Jorge Alessandri Rodríguez,1
+ACCIDENT,Acceso Estacionamiento Sixbell,1
+ACCIDENT,Av. Camilo Henríquez lateral,1
+ACCIDENT,Ruta 76 / Camino a Melipilla,1
+ACCIDENT,Autopista Costanera Norte,1
+ACCIDENT,Av. Ejército Libertador,1
+ACCIDENT,Ruta H-10 / Camino Real,1
+ACCIDENT,Av. Presidente Kennedy,1
+ACCIDENT,Av. Alonso de Córdova,1
+ACCIDENT,Autopista Vespucio Sur,1
+ACCIDENT,Salida 4 > Manquehue,1
+ACCIDENT,Av. Salvador Allende,1
+ACCIDENT,Camino Casas Viejas,1
+ACCIDENT,Dr. Guillermo Mann,1
+ACCIDENT,Av. San Francisco,1
+ACCIDENT,Av. Pedro Fontova,1
+ACCIDENT,Carlos Ossandón,1
+ACCIDENT,Av. Irarrázaval,1
+ACCIDENT,Av. San Ignacio,1
+ACCIDENT,Anita González,1
+ACCIDENT,Pablo Burchard,1
+ACCIDENT,Av. Laguna Sur,1
+ACCIDENT,Av. Hugo Bravo,1
+ACCIDENT,Ernesto Hevia,1
+ACCIDENT,Av. Pajaritos,1
+ACCIDENT,Av. La Serena,1
+ACCIDENT,Pasaje Lenga,1
+ACCIDENT,Santa Elena,1
+ACCIDENT,Andalucía,1
+ACCIDENT,Pilcomayo,1
+ACCIDENT,Bío-Bío,1
+ACCIDENT,Ruta 78,1
+ACCIDENT,Ruta 68,1
+ACCIDENT,Carmen,1
+ACCIDENT,Copec,1
+POLICE,Corredor transporte público Las Industrias,1
+POLICE,Salida a Américo Vespucio Sur > Cerrillos,1
+POLICE,Acceso a Camino a Melipilla > San Antonio,1
+POLICE,Ruta 57 CH / Autopista Los Libertadores,1
+POLICE,Corredor Transporte Público 5 de Abril,1
+POLICE,Condominio Santa María de Chicureo 2,1
+POLICE,Av. Pdte. Jorge Alessandri Rodríguez,1
+POLICE,Av. Alcalde Fernando Castillo Velasco,1
+POLICE,Salida 2-S > Av. Matta / 10 de Julio,1
+POLICE,Av. Presidente Eduardo Frei Montalva,1
+POLICE,Pasaje Filántropo Manuel de Salas,1
+POLICE,Ruta G-68 / Camino a Valparaíso,1
+POLICE,Ruta G-182 / Camino El Noviciado,1
+POLICE,Av. Jorge Alessandri Rodríguez,1
+POLICE,Presidente Federico Errázuriz,1
+POLICE,Av. Diagonal José María Caro,1
+POLICE,Ruta G-260 / Camino El Trebal,1
+POLICE,Libertador Bernardo O'Higgins,1
+POLICE,Caletera Camino Internacional,1
+POLICE,Salida > Puangue / Cuncumén,1
+POLICE,Av. Circunvalación Poniente,1
+POLICE,Ruta G-54 / Miguel Letelier,1
+POLICE,Camino del Mirador Interior,1
+POLICE,Av. María Rozas Velásquez,1
+POLICE,Salida Ruta F-660 > Olmué,1
+POLICE,Salida >Buin - Alto Jahuel,1
+POLICE,Ruta G-68 / Cuesta Barriga,1
+POLICE,Av. Valle Lo Campino Norte,1
+POLICE,Av. General Óscar Bonilla,1
+POLICE,Pasaje Auristela Sandoval,1
+POLICE,Av. Padre Alberto Hurtado,1
+POLICE,Av. José Joaquín Pérez,1
+POLICE,Av. José Alcalde Délano,1
+POLICE,Av. Américo Vespucio Sur,1
+POLICE,Paso Superior Las Palmas,1
+POLICE,Ernesto Pinto Lagarrigue,1
+POLICE,Av. Valle Lo Campino Sur,1
+POLICE,Av. Domingo Santa María,1
+POLICE,Michelle Bachelet Jeria,1
+POLICE,Av. General San Martín,1
+POLICE,Nueva María Angélica,1
+POLICE,Ismael Valdés Vergara,1
+POLICE,Cristóbal Colón 3837,1
+POLICE,Av. Bernardo O'Higgins,1
+POLICE,Av. Alonso de Córdova,1
+POLICE,Pasaje Rayén Quitral,1
+POLICE,José Tomás Urmeneta,1
+POLICE,Av. Poeta Pedro Prado,1
+POLICE,Av. Nueva Providencia,1
+POLICE,Av. Manuel Rodríguez,1
+POLICE,Av. Fernández Albano,1
+POLICE,Av. Escuela Agrícola,1
+POLICE,Av. Campo de Deportes,1
+POLICE,Pedro Pablo Dartnell,1
+POLICE,Padre Demetrio Bravo,1
+POLICE,Nicolás de Gárnica,1
+POLICE,Hermanos Amunátegui,1
+POLICE,Av. Armando Cortinez,1
+POLICE,José Alberto Bravo,1
+POLICE,Bascuñán Guerrero,1
+POLICE,Pasaje Los Retamos,1
+POLICE,María Ester Garay,1
+POLICE,López de Alcázar,1
+POLICE,Llano Subercaseaux,1
+POLICE,Isidora Goyenechea,1
+POLICE,Eleuterio Ramírez,1
+POLICE,Diego Barros Arana,1
+POLICE,Bartolomé Murillo,1
+POLICE,Av. Nelson Pereira,1
+POLICE,Av. Clotario Blest,1
+POLICE,Av. Bajos de Matte,1
+POLICE,Acceso Santa Elena,1
+POLICE,Sergio Valdovinos,1
+POLICE,Martín de Zamora,1
+POLICE,Av. Rosita Renard,1
+POLICE,Av. Manquehue Sur,1
+POLICE,Av. Las Rejas Sur,1
+POLICE,Av. José Arrieta,1
+POLICE,Av. Departamental,1
+POLICE,Av. Costanera Sur,1
+POLICE,Av. Concha y Toro,1
+POLICE,Autopista Kennedy,1
+POLICE,Arturo Alessandri,1
+POLICE,Pasaje Tamarindo,1
+POLICE,Pasaje 8 Oriente,1
+POLICE,Jorge Alessandri,1
+POLICE,Gustavo Campaña,1
+POLICE,General Amengual,1
+POLICE,Enrique Figueroa,1
+POLICE,Camino del Cerro,1
+POLICE,Caletera Ruta 78,1
+POLICE,Av. Santo Tomás,1
+POLICE,Av. Punta Arenas,1
+POLICE,Av. Irarrázaval,1
+POLICE,18 de Septiembre,1
+POLICE,Vicente Valdés,1
+POLICE,Serafín Zamora,1
+POLICE,Santa Petronila,1
+POLICE,Pasaje Catalán,1
+POLICE,Leonel Calcagni,1
+POLICE,Lago Calafquén,1
+POLICE,José Luis Caro,1
+POLICE,Capitán Orella,1
+POLICE,Camino Lo Pinto,1
+POLICE,Camino El Rodeo,1
+POLICE,Callejón Daine,1
+POLICE,Av. Valparaíso,1
+POLICE,San Bartolomé,1
+POLICE,Salvador Reyes,1
+POLICE,Pasaje Paillao,1
+POLICE,Pasaje Chonchi,1
+POLICE,Nueva de Matte,1
+POLICE,Las Hortensias,1
+POLICE,Jaromir Pridal,1
+POLICE,Grumete Bustos,1
+POLICE,Calle interior,1
+POLICE,Av. El Parrón,1
+POLICE,Av. Colón Sur,1
+POLICE,Actor Báguena,1
+POLICE,Rivas Vicuña,1
+POLICE,Remigia Opazo,1
+POLICE,Miguel Ángel,1
+POLICE,Los Tréboles,1
+POLICE,Las Hualtatas,1
+POLICE,Juana Canales,1
+POLICE,Inka Yen Mapu,1
+POLICE,Independencia,1
+POLICE,El Hualle Sur,1
+POLICE,Coronel Godoy,1
+POLICE,Av. Pajaritos,1
+POLICE,Av. Los Toros,1
+POLICE,Av. Lo Espejo,1
+POLICE,Av. El Olimpo,1
+POLICE,Av. Chamisero,1
+POLICE,Av. Balmaceda,1
+POLICE,Aníbal Pinto,1
+POLICE,Ruta F-100-G,1
+POLICE,Premio Nobel,1
+POLICE,Nataniel Cox,1
+POLICE,Mirador Azul,1
+POLICE,Los Jazmines,1
+POLICE,Los Copihues,1
+POLICE,Los Claveles,1
+POLICE,Los Apeninos,1
+POLICE,Las Parcelas,1
+POLICE,Elena Blanco,1
+POLICE,Darío Pavez,1
+POLICE,Cooperación,1
+POLICE,Club Hípico,1
+POLICE,Av. Vitacura,1
+POLICE,Av. Tobalaba,1
+POLICE,Av. San Juan,1
+POLICE,Av. Goycolea,1
+POLICE,Av. El Salto,1
+POLICE,Av. El Cerro,1
+POLICE,Av. Einstein,1
+POLICE,Santa Julia,1
+POLICE,Santa Elena,1
+POLICE,San Martín,1
+POLICE,San Antonio,1
+POLICE,Rey Alberto,1
+POLICE,Ferrocarril,1
+POLICE,El Pastizal,1
+POLICE,Callejón 1,1
+POLICE,Calle Nueva,1
+POLICE,Barros Luco,1
+POLICE,Av. Serrano,1
+POLICE,Arturo Prat,1
+POLICE,24 de Abril,1
+POLICE,Santa Olga,1
+POLICE,Salida 18b,1
+POLICE,Ruta G-920,1
+POLICE,Ruta G-668,1
+POLICE,Rondizzoni,1
+POLICE,Miraflores,1
+POLICE,Los Olivos,1
+POLICE,Los Lirios,1
+POLICE,La Condesa,1
+POLICE,Jorge Luco,1
+POLICE,Inglaterra,1
+POLICE,Huérfanos,1
+POLICE,El Salitre,1
+POLICE,El Cortijo,1
+POLICE,Bellavista,1
+POLICE,Av. Maipú,1
+POLICE,21 de Mayo,1
+POLICE,Villaseca,1
+POLICE,Villasana,1
+POLICE,Tarapacá,1
+POLICE,Ruta G-78,1
+POLICE,Ruta G-60,1
+POLICE,Rinconada,1
+POLICE,Moctezuma,1
+POLICE,Lo Cruzat,1
+POLICE,Las Docas,1
+POLICE,Juramento,1
+POLICE,Covadonga,1
+POLICE,Balmaceda,1
+POLICE,Av. Chile,1
+POLICE,Agustinas,1
+POLICE,Victoria,1
+POLICE,Vasconia,1
+POLICE,Teatinos,1
+POLICE,Placilla,1
+POLICE,Matucana,1
+POLICE,El Cerro,1
+POLICE,Colombia,1
+POLICE,Carrión,1
+POLICE,Barquito,1
+POLICE,Av. Roma,1
+POLICE,Uruguay,1
+POLICE,Retorno,1
+POLICE,Lo Boza,1
+POLICE,La Obra,1
+POLICE,Cumming,1
+POLICE,Chacras,1
+POLICE,Calle 1,1
+POLICE,Berlín,1
+POLICE,Almarza,1
+POLICE,1 Norte,1
+POLICE,Vargas,1
+POLICE,Sazié,1
+POLICE,Maipú,1
+POLICE,Lircay,1
+POLICE,Gamero,1
+POLICE,Rosas,1
+POLICE,Radal,1
+POLICE,Lillo,1
+POLICE,Claro,1
+POLICE,Andes,1
+POLICE,Abtao,1
+HAZARD,Acceso a Camino a Melipilla > Laguna del Sol,1
+HAZARD,Salida Cuesta Barriga > Lolenco / Retorno,1
+HAZARD,Acceso Caletera Oriente 5 Sur > Norte,1
+HAZARD,Salida > General Velázquez / Buzeta,1
+HAZARD,Av. Teniente Luis Cruz Martínez,1
+HAZARD,Av. Américo Vespucio > Oriente,1
+HAZARD,Acceso a Autopista Vespucio Sur,1
+HAZARD,Ruta G-30 / Camino a Lonquén,1
+HAZARD,Circunvalación Chacabuco Sur,1
+HAZARD,Ruta F-910-G / Cuesta Zapata,1
+HAZARD,Padre Jaime Larraín Hurtado,1
+HAZARD,Av. Departamental > Oriente,1
+HAZARD,Av. Costanera Andrés Bello,1
+HAZARD,Av. Américo Vespucio Norte,1
+HAZARD,Salida 13 > La Concepción,1
+HAZARD,Padre Vicente Irarrázaval,1
+HAZARD,Estacionamiento Montserrat,1
+HAZARD,Diagonal José María Caro,1
+HAZARD,Av. José Manuel Balmaceda,1
+HAZARD,Av. General Óscar Bonilla,1
+HAZARD,Acceso a Autopista Central,1
+HAZARD,Ruta G-46 / Av. Balmaceda,1
+HAZARD,Av. Virginia Subercaseaux,1
+HAZARD,Av. Senador Jaime Guzmán,1
+HAZARD,Av. Padre Alberto Hurtado,1
+HAZARD,Subteniente Pérez Canto,1
+HAZARD,Monseñor Félix Cabrera,1
+HAZARD,Mateo de Toro y Zambrano,1
+HAZARD,Av. Manuel Antonio Matta,1
+HAZARD,Av. Ejército Libertador,1
+HAZARD,Salida 0a-N > Al Centro,1
+HAZARD,Camino Nos a Los Morros,1
+HAZARD,Av. General San Martín,1
+HAZARD,Av. Diagonal Las Torres,1
+HAZARD,Vicente Pérez Rosales,1
+HAZARD,Ismael Valdés Vergara,1
+HAZARD,Av. Presidente Kennedy,1
+HAZARD,Av. Bernardo O'Higgins,1
+HAZARD,Av. Alonso de Córdova,1
+HAZARD,Aeropuerto / Quilicura,1
+HAZARD,Túnel San Cristóbal,1
+HAZARD,Gerónimo de Alderete,1
+HAZARD,Carlos Dittborn Pinto,1
+HAZARD,Av. San Luis de Macul,1
+HAZARD,Av. Gabriela Poniente,1
+HAZARD,Av. Camilo Henríquez,1
+HAZARD,Av. Armando Cortínez,1
+HAZARD,Padre Demetrio Bravo,1
+HAZARD,General John O'Brien,1
+HAZARD,Dr. Sótero del Río,1
+HAZARD,Camino Las Tórtolas,1
+HAZARD,Av. Salvador Allende,1
+HAZARD,Av. Gabriela Oriente,1
+HAZARD,San Vicente de Paul,1
+HAZARD,Salida > Av. Dorsal,1
+HAZARD,Retorno > Quilicura,1
+HAZARD,Pasaje Juan Soldado,1
+HAZARD,General San Martín,1
+HAZARD,Av. Manuel Castillo,1
+HAZARD,Av. Los Presidentes,1
+HAZARD,Av. Isabel Riquelme,1
+HAZARD,Av. Calera de Tango,1
+HAZARD,Rinconada de Chena,1
+HAZARD,Los Conquistadores,1
+HAZARD,Juan Gómez Millas,1
+HAZARD,General Velásquez,1
+HAZARD,General Bustamante,1
+HAZARD,Av. Clotario Blest,1
+HAZARD,Sebastián Elcano,1
+HAZARD,Nicasio Retamales,1
+HAZARD,Federico Fröebel,1
+HAZARD,Corredor de buses,1
+HAZARD,Camino del Oficio,1
+HAZARD,Av. Padre Hurtado,1
+HAZARD,Av. Las Rejas Sur,1
+HAZARD,Rojas Magallanes,1
+HAZARD,Paseo Pie Andino,1
+HAZARD,Enrique Olivares,1
+HAZARD,Camino del Cerro,1
+HAZARD,Kennedy lateral,1
+HAZARD,El Conquistador,1
+HAZARD,Av. Valparaíso,1
+HAZARD,Av. El Descanso,1
+HAZARD,Real Audiencia,1
+HAZARD,Ramón Rosales,1
+HAZARD,Nueva Imperial,1
+HAZARD,Los Talladores,1
+HAZARD,La Concepción,1
+HAZARD,Camino del Sol,1
+HAZARD,Camino El Arpa,1
+HAZARD,Valle Central,1
+HAZARD,Mapocho Norte,1
+HAZARD,Las Vizcachas,1
+HAZARD,Juan Pablo II,1
+HAZARD,Av. del Valle,1
+HAZARD,Av. Manquehue,1
+HAZARD,Av. Lo Ovalle,1
+HAZARD,14 de la Fama,1
+HAZARD,Santa Corina,1
+HAZARD,Mar de Drake,1
+HAZARD,Av. Salvador,1
+HAZARD,Av. Recoleta,1
+HAZARD,Av. Marathon,1
+HAZARD,Santa Inés,1
+HAZARD,San Gabriel,1
+HAZARD,San Alfonso,1
+HAZARD,Marga Marga,1
+HAZARD,La Montaña,1
+HAZARD,Exposición,1
+HAZARD,Campo Lindo,1
+HAZARD,Av. Ecuador,1
+HAZARD,San Ginés,1
+HAZARD,Ruta G-520,1
+HAZARD,Ruta 60 CH,1
+HAZARD,La Cañada,1
+HAZARD,Av. Dorsal,1
+HAZARD,San José,1
+HAZARD,Ruta G-46,1
+HAZARD,Rinconada,1
+HAZARD,Pasaje 49,1
+HAZARD,Pasaje 23,1
+HAZARD,Chacabuco,1
+HAZARD,Balmaceda,1
+HAZARD,Av. Suiza,1
+HAZARD,Astro Rey,1
+HAZARD,Agustinas,1
+HAZARD,Tegualda,1
+HAZARD,Placilla,1
+HAZARD,Nevería,1
+HAZARD,Matucana,1
+HAZARD,Marsella,1
+HAZARD,Colombia,1
+HAZARD,Av. Ossa,1
+HAZARD,Ruta 71,1
+HAZARD,Linares,1
+HAZARD,Av. Sur,1
+HAZARD,Chacao,1
+HAZARD,Alaska,1
+HAZARD,Silva,1
+tipo,calle,1
+JAM,Salida a Autopista Costanera Norte > Oriente,1
+JAM,Av. Presidente José Joaquín Prieto Vial,1
+JAM,Ruta 57 CH / Autopista Los Libertadores,1
+JAM,Condominio Santa María de Chicureo 2,1
+JAM,Salida > General Velázquez / Buzeta,1
+JAM,Caletera Oriente General San Martín,1
+JAM,Av. Presidente Eduardo Frei Montalva,1
+JAM,Presidente José Batlle y Ordóñez,1
+JAM,Kennedy Oriente / Centro comercial,1
+JAM,Salida 37 > Avenida Punta Arenas,1
+JAM,Av. Teniente Luis Cruz Martínez,1
+JAM,Estacionamientos MidMall Maipú,1
+JAM,Av. Américo Vespucio > Oriente,1
+JAM,Salida 11B > Estoril / Kennedy,1
+JAM,Salida > Ciudad de los Valles,1
+JAM,Ruta G-30 / Camino a Lonquén,1
+JAM,Ruta F-50 / Camino Lo Orozco,1
+JAM,Av. Vicuña Mackenna Oriente,1
+JAM,Salida >Buin - Alto Jahuel,1
+JAM,Salida 13 > La Concepción,1
+JAM,Monseñor Carlos Casanueva,1
+JAM,Barón Pierre de Coubertin,1
+JAM,Autopista Costanera Norte,1
+JAM,Salida 9a-S > El Parrón,1
+JAM,Autopista Vespucio Norte,1
+JAM,San Carlos de Apoquindo,1
+JAM,Salida 0a-N > Al Centro,1
+JAM,Camino Variante El Toyo,1
+JAM,Av. General San Martín,1
+JAM,Pasaje Javiera Carrera,1
+JAM,Av. Palmira Romano Sur,1
+JAM,Quilicura -El Manzano,1
+JAM,José Massoud Sarquis,1
+JAM,Av. Presidente Riesco,1
+JAM,Luis López Orellana,1
+JAM,José Domingo Cañas,1
+JAM,Av. Walker Martínez,1
+JAM,Av. 18 de Septiembre,1
+JAM,Camino Casas Viejas,1
+JAM,Av. Simón Bolívar,1
+JAM,Av. Ricardo Cumming,1
+JAM,Salida 32 > Ruta 5,1
+JAM,Camino Piedra Roja,1
+JAM,Estadio Israelita,1
+JAM,Av. Pedro Fontova,1
+JAM,Av. Manquehue Sur,1
+JAM,Av. José Arrieta,1
+JAM,Av. Claudio Arrau,1
+JAM,Alejandro Guzmán,1
+JAM,Rojas Magallanes,1
+JAM,Félix de Amesti,1
+JAM,Av. Doña Isabel,1
+JAM,Camino Catemito,1
+JAM,Av. Providencia,1
+JAM,Av. Lo Castillo,1
+JAM,Regina Gálvez,1
+JAM,Federico Haydn,1
+JAM,Dublé Almeyda,1
+JAM,Camino a Rapel,1
+JAM,Camino El Alba,1
+JAM,Av. Santa Rosa,1
+JAM,Av. Miraflores,1
+JAM,Av. Los Leones,1
+JAM,Av. Eyzaguirre,1
+JAM,Av. 5 de Abril,1
+JAM,Av. Tabancura,1
+JAM,Av. Manquehue,1
+JAM,Av. Los Mares,1
+JAM,Av. Lo Espejo,1
+JAM,Av. El Bosque,1
+JAM,Peaje Manual,1
+JAM,Los Piñones,1
+JAM,Los Pintores,1
+JAM,Los Maitenes,1
+JAM,Lo Marcoleta,1
+JAM,Buenos Aires,1
+JAM,Av. Vitacura,1
+JAM,Av. Trinidad,1
+JAM,Av. Tobalaba,1
+JAM,Av. San Juan,1
+JAM,Av. Recoleta,1
+JAM,Av. Matucana,1
+JAM,Av. Larraín,1
+JAM,Av. El Cerro,1
+JAM,Av. Einstein,1
+JAM,Santa Elena,1
+JAM,San Lorenzo,1
+JAM,Lynch Norte,1
+JAM,Av. Neptuno,1
+JAM,Av. España,1
+JAM,Eyzaguirre,1
+JAM,Av. Pocuro,1
+JAM,Av. Brasil,1
+JAM,Seminario,1
+JAM,San Diego,1
+JAM,Pío Nono,1
+JAM,Osa Mayor,1
+JAM,Gran Vía,1
+JAM,Baquedano,1
+JAM,Maturana,1
+JAM,Alicante,1
+JAM,Sagasca,1
+JAM,Altazor,1
+JAM,1 Norte,1
+JAM,Campos,1
+POLICE,Rivadavia,1
